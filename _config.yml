@@ -142,9 +142,12 @@ footer:
 
 
 # Reading Files
-include:
-  - .htaccess
-  - _pages
+# include:
+#   - .htaccess
+#   - _pages
+#     # - members.md
+#     # - timeline.md
+include: ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
