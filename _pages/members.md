@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
+
 # 开荒队
     - 老龟
     - 狗莫
