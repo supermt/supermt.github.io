@@ -1,13 +1,28 @@
-## 忧伤要用奶茶稀释
+# 忧伤要用奶茶稀释
 
 ![Image](https://github.com/supermt/supermt.github.io/blob/main/logo.jpg)
 
 这是一个有爱的魔兽公会
 
+## 联系方式
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+公会及服务器：
+    - 十区贫瘠之地：忧伤要用奶茶稀释
+    - 一区万色星辰：永耀新人同盟会
 
-### Jekyll Themes
+常用群聊：
+    - QQ：967566315
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/supermt/supermt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+招募官员：
+    - 阿莫：
+      - QQ： 12344321
+      - 微信： 56788766
+    - 阿龟：
+      - QQ： 43123412
+      - 微信：guigui
+      - 斗鱼房间号：[622949](https://www.douyu.com/622949)
+    - 阿渣：
+      - 微信：1234123
+    - 二蛋蛋：
+      - 微信：1234
 
