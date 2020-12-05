@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : ""
 description              : "An amazing website."
 url                      : "https://supermt.github.io"
-baseurl                  : "/blog"
+baseurl                  : #"/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "奶茶排忧会所"
-  avatar           : "https://github.com/supermt/supermt.github.io/blob/main/logo.jpg"
+  avatar           : "logo.jpg"
   bio              : "我们是一个有爱的公会"
   location         : "十区-贫瘠之地"
   email            :
