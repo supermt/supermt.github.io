@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "团本攻略进程"
-    url: https://supermt.github.io/timeline
+    url: /timeline
   - title: "开荒队成员及角色列表"
-    url: https://supermt.github.io/members
+    url: /members
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

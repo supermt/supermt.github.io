@@ -72,7 +72,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               : ""
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -173,8 +173,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
