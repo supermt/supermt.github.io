@@ -1,5 +1,6 @@
 name: ease_the_sorrow_by_milktea
 
-remote_theme: mmistake/minimal-mistakes 
-
 avatar: https://github.com/supermt/supermt.github.io/blob/main/logo.jpg 
+
+plugins:
+	- jekyll-include-cache
