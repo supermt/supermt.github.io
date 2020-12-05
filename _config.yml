@@ -5,4 +5,4 @@ avatar: https://github.com/supermt/supermt.github.io/blob/main/logo.jpg
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 plugins:
-	- jekyll-include-cache
+  - jekyll-include-cache
