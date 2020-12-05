@@ -19,19 +19,14 @@ layout: archive
   {% endfor %}
 </div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Raid Members" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].raid_members | default: "Raid Members" }}</h3>
 
 {% for staff_member in site.staff_members %}
-  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
-  <p>{{ staff_member.content | markdownify }}</p>
-{% endfor %}
-
-{% for staff_member in site.staff_members %}
-  <h2>
+  <h4>
     <a href="{{ staff_member.url }}">
       {{ staff_member.name }} - {{ staff_member.position }}
     </a>
-  </h2>
+  </h4>
   <p>{{ staff_member.content | markdownify }}</p>
 {% endfor %}
 
