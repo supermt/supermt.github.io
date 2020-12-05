@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "奶茶排忧会所"
-  avatar           : "https://www.doutugou.net/zuixin/368964"
+  avatar           : #"https://www.doutugou.net/zuixin/368964"
   bio              : "我们是一个有爱的公会"
   location         : "十区-贫瘠之地"
   email            :
