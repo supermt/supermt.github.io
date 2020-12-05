@@ -284,3 +284,4 @@ defaults:
 collections:
   staff_members:
     output: true
+    permalink: /:collection/:name

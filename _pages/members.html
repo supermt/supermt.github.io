@@ -4,19 +4,16 @@ title: 公会成员
 permalink: /members.html
 ---
 
-# 开荒队
-    - 老龟
-    - 狗莫
-    - 希希
-    - 蛋蛋
-# 坐骑团
-    - 狗莫
-    - 蛋蛋
-# 解密与其他活动小队
-    - 希希
-# PvP与毛装队
-    - 橘猫
-# 技术支持
-    - 计分哥
-# 插科打诨与线下活动
-    - 渣男归
+{% for staff_member in site.staff_members %}
+  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
+  <p>{{ staff_member.content | markdownify }}</p>
+{% endfor %}
+
+{% for staff_member in site.staff_members %}
+  <h2>
+    <a href="{{ staff_member.url }}">
+      {{ staff_member.name }} - {{ staff_member.position }}
+    </a>
+  </h2>
+  <p>{{ staff_member.content | markdownify }}</p>
+{% endfor %}
